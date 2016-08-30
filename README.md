@@ -3,7 +3,7 @@ Atividade de implementação de um Servidor HTTP Java para Projeto Integrador IV
 
 ## Executando o projeto
 
-1. Faça o Download do projeto completo deste repositório.
+1. Faça o [Download](https://github.com/douglasjunior/java-basic-http_PI4_2016-2/archive/master.zip) do projeto completo deste repositório.
 2. Abra com o Netbeans versão 8 ou superior. *(sertifique-se de estar executando Java 7 ou 8)*
 3. Execute a classe principal `JavaSimpleHttp.java` e verá uma mensagem no console.
   
